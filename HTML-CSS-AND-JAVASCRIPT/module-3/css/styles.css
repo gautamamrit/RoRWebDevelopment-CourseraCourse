@@ -1,0 +1,10 @@
+#navbar-list {
+    text-align: center;
+    background-color: #f5f5dc;
+}
+#main-content{
+    background-color: #ffe4c4;
+}
+li:hover{
+    background-color: #cd5c5c;
+}
